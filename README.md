@@ -33,7 +33,7 @@ This project focuses on analyzing data professionals' survey responses, breaking
 
 ## Screenshots
 
-![Dashboard Screenshot](images/dashboard-screenshot.png)
+![Dashboard Screenshot](Screenshot/dashboard-image.png)
 
 ## How to Use
 
